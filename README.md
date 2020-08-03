@@ -1,5 +1,11 @@
 # Learn_DataScience
 
+## Some Awesome Links to checkout
+ - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+ - [Data Science Tutorials](https://github.com/datasciencescoop/Data-Science-Tutorials)
+ - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+ - [Data science blogs](https://github.com/rushter/data-science-blogs)
+
 ## Sampling methods
   - Articles
       - [ ] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
