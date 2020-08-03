@@ -1,5 +1,6 @@
 # Learn_DataScience
 Learn Data_Science Everyday
+**if you want free links to books let me know
 
 ## Some Awesome Links to checkout
  - [Data Scientist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
