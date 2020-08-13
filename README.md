@@ -8,6 +8,12 @@ Learn Data_Science Everyday
  - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
  - [Data science blogs](https://github.com/rushter/data-science-blogs)
 
+## Machine Learning
+ - Linear Regression
+    - [ ] [Article: The Complete Guide to Linear Regression Analysis]( https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2 ) 
+    - [ ] [YouTube Theory: Statistics PL14 - Simple Linear Regression]( https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi )
+    - [ ] [Youtube: Regression in python by Sentdex]( https://www.youtube.com/watch?v=JcI5Vnw0b2c&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=3&t=0s )
+      
 ## Sampling methods
   - Articles
       - [ ] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
