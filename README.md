@@ -9,6 +9,7 @@ Learn Data_Science Everyday
  - [Data science blogs](https://github.com/rushter/data-science-blogs)
 
 ## Machine Learning
+ - [ ] [Article: ML for newbies](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
  - [ ] [Machine Learning by Nando de freitas](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
  - Linear Regression
     - [ ] [Article: The Complete Guide to Linear Regression Analysis]( https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2 ) 
