@@ -18,3 +18,13 @@ Learn Data_Science Everyday
       - [ ] [Sampling a Signal, Aliasing & Nyquist Theorem](https://www.youtube.com/watch?v=yWqrx08UeUs)
   - Books
       - [ ] [An Introduction to Categorical Data Analysis (Wiley Series in Probability and Statistics)]( https://www.amazon.in/Introduction-Categorical-Analysis-Probability-Statistics/dp/1119405262/ref=pd_lpo_14_t_0/258-0493293-2503918?_encoding=UTF8&pd_rd_i=1119405262&pd_rd_r=d24afc32-bec4-4819-8d69-a2c985130e17&pd_rd_w=BLmBC&pd_rd_wg=EzuKH&pf_rd_p=5a903e39-3cff-40f0-9a69-33552e242181&pf_rd_r=CKT7WT285645YQZGBEVX&psc=1&refRID=CKT7WT285645YQZGBEVX)
+
+## Big Data
+  - Articles
+      - [ ] [What is Big Data]( https://data-flair.training/blogs/what-is-big-data/ ) 
+      - [ ] [Big Data Tutorial Library By dataflair]( https://data-flair.training/blogs/big-data-tutorials-home/ )
+      - [ ] [Big Data and Hadoop Tutorial - All You need to understand to learn Hadoop](https://www.simplilearn.com/introduction-to-big-data-hadoop-developer-tutorial)
+  - Videos
+      - [ ] [Map-Reduce]( https://www.youtube.com/watch?v=cvhKoniK5Uo )
+      - [ ] [Apache Spark](https://www.youtube.com/watch?v=tDVPcqGpEnM)
+  
