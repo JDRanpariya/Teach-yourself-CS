@@ -9,7 +9,7 @@ Learn Data_Science Everyday
  - [Data science blogs](https://github.com/rushter/data-science-blogs)
 
 ## Machine Learning
- - [ ] [Article: ML for newbies](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
+ - [X]  [Article: ML for newbies](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
  - [ ] [Book: Applied Regression Analysis](https://www.wiley.com/en-us/Applied+Regression+Analysis%2C+3rd+Edition-p-9780471170822)
  - [ ] [Book: Regression Analysis with Python](https://www.amazon.in/Regression-Analysis-Python-Luca-Massaron/dp/1785286315)
  - [ ] [Machine Learning by Nando de freitas](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
