@@ -22,7 +22,7 @@ Learn Data_Science Everyday
       
 ## Sampling methods
   - Articles
-      - [ ] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
+      - [X] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
       - [ ] [Sampling Techniques]( https://towardsdatascience.com/sampling-techniques-a4e34111d808 )
       - [ ] [6 Sampling Techniques: How to Choose a Representative Subset of the Population](https://humansofdata.atlan.com/2017/07/6-sampling-techniques-choose-representative-subset/)
   - Videos
