@@ -25,6 +25,9 @@ Learn Data_Science Everyday
       - [X] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
       - [ ] [Sampling Techniques]( https://towardsdatascience.com/sampling-techniques-a4e34111d808 )
       - [ ] [6 Sampling Techniques: How to Choose a Representative Subset of the Population](https://humansofdata.atlan.com/2017/07/6-sampling-techniques-choose-representative-subset/)
+      - [ ] [5 Probability Distributions Every Data Scientist Should Know](https://www.kdnuggets.com/2019/07/5-probability-distributions-every-data-scientist-should-know.html)
+      - [ ] [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/#comment-6509)
+      - [ ] [Resource: most common distribution focused on Deep learning](https://github.com/graykode/distribution-is-all-you-need)
   - Videos
       - [ ] [Sampling and Sampling Distribution]( https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdXH-P5N4hMFoyYjbaRiR0 )
       - [ ] [Sampling a Signal, Aliasing & Nyquist Theorem](https://www.youtube.com/watch?v=yWqrx08UeUs)
