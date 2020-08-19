@@ -20,11 +20,12 @@ Learn Data_Science Everyday
     - [ ] [Linear Regression project]( https://www.kaggle.com/foxtreme/linear-regression-project )
     - [ ] [9 Interesting Linear Regression Project Ideas & Topics For Beginners]( https://www.upgrad.com/blog/linear-regression-project-ideas-topics-for-beginners/ )
       
-## Sampling methods
+## Math for DS
   - Articles
       - [X] [Types of Sampling: Sampling Methods with Examples]( https://www.questionpro.com/blog/types-of-sampling-for-social-research/ ) 
       - [ ] [Sampling Techniques]( https://towardsdatascience.com/sampling-techniques-a4e34111d808 )
       - [ ] [6 Sampling Techniques: How to Choose a Representative Subset of the Population](https://humansofdata.atlan.com/2017/07/6-sampling-techniques-choose-representative-subset/)
+      - [ ] [Statistics: Central Tendency](https://towardsdatascience.com/statistics-central-tendency-5e514a2f98fd)
       - [ ] [5 Probability Distributions Every Data Scientist Should Know](https://www.kdnuggets.com/2019/07/5-probability-distributions-every-data-scientist-should-know.html)
       - [ ] [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/#comment-6509)
       - [ ] [Resource: most common distribution focused on Deep learning](https://github.com/graykode/distribution-is-all-you-need)
