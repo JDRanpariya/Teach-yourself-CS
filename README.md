@@ -44,3 +44,8 @@ Learn Data_Science Everyday
       - [ ] [Map-Reduce]( https://www.youtube.com/watch?v=cvhKoniK5Uo )
       - [ ] [Apache Spark](https://www.youtube.com/watch?v=tDVPcqGpEnM)
   
+## Research Papers
+  - GAN's
+   - [ ] [2014 NeurIPS paper by Ian Goodfellow](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+   - [ ] [discriminative vs generative classifiers](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
+   
