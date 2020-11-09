@@ -29,6 +29,7 @@ Learn Data_Science Everyday
       - [ ] [5 Probability Distributions Every Data Scientist Should Know](https://www.kdnuggets.com/2019/07/5-probability-distributions-every-data-scientist-should-know.html)
       - [ ] [Understanding Probability Distributions](https://statisticsbyjim.com/basics/probability-distributions/#comment-6509)
       - [ ] [Resource: most common distribution focused on Deep learning](https://github.com/graykode/distribution-is-all-you-need)
+      - [x] [PPS Sampling with Python](https://medium.com/@chaayushmalik/pps-sampling-in-python-b5d5d4a8bdf7)
   - Videos
       - [ ] [Sampling and Sampling Distribution]( https://www.youtube.com/playlist?list=PLIeGtxpvyG-KdXH-P5N4hMFoyYjbaRiR0 )
       - [ ] [Sampling a Signal, Aliasing & Nyquist Theorem](https://www.youtube.com/watch?v=yWqrx08UeUs)
