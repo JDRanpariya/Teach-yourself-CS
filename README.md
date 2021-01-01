@@ -62,3 +62,7 @@ Learn Data_Science Everyday
   - [ ] [Home Loan Classification Problem](https://www.youtube.com/watch?v=Tnto7gi6Zzo)
   - [ ] [Full Stack React & Firebase](https://www.youtube.com/watch?v=m_u6P5k0vP0)
   - [ ] [Portfolio website](https://www.youtube.com/watch?v=r_hYR53r61M)
+  
+## Understaing electron ( react-python gui )
+  - [ ] [Making modern GUIs with Python and ElectronJS](https://www.youtube.com/watch?v=627VBkAhKTc)
+  - [ ] [Python eel](https://www.youtube.com/watch?v=iy2aKf9AAvc)
