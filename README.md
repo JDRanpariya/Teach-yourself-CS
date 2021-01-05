@@ -53,7 +53,7 @@ Learn Data_Science Everyday
 ## Understanding Web-dev ( ui-ux-frontend-backend-api-devops )
   - [X] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
   - [ ] [Django clever programmer 2020](https://www.youtube.com/watch?v=JT80XhYJdBw) ![44%](https://progress-bar.dev/44)
-  - [ ] [Material UI React](https://www.youtube.com/watch?v=vyJU9efvUtQ)
+  - [X] [Material UI React](https://www.youtube.com/watch?v=vyJU9efvUtQ)
   - [ ] [Django & React - full stack](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
   - [ ] [Create Modern Web Design](https://www.youtube.com/watch?v=0yQxb0fCRGE)
   - [ ] [Real Django Websites](https://www.youtube.com/playlist?list=PL-51WBLyFTg0Im-gJg54CT1Vr7imTDL68)
