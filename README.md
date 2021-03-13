@@ -49,5 +49,10 @@ Learn Data_Science Everyday
   - GAN's
    - [ ] [2014 NeurIPS paper by Ian Goodfellow](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
    - [ ] [discriminative vs generative classifiers](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
+
+## semantic segmentation 
+  - [x] [High Quality Background Removal without green screens | Deep Matting ](https://www.youtube.com/watch?v=rUo0wuVyefU)
+  - [x] [What is semantic and instance segmentation?](https://www.youtube.com/watch?v=VjK3hCnj8xA)
+  - [x] [Instance Segmentation Vs Semantic Segmentation?](https://www.youtube.com/watch?v=ms3pfHltJac)
    
 
