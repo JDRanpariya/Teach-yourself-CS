@@ -54,5 +54,10 @@ Learn Data_Science Everyday
   - [x] [High Quality Background Removal without green screens | Deep Matting ](https://www.youtube.com/watch?v=rUo0wuVyefU)
   - [x] [What is semantic and instance segmentation?](https://www.youtube.com/watch?v=VjK3hCnj8xA)
   - [x] [Instance Segmentation Vs Semantic Segmentation?](https://www.youtube.com/watch?v=ms3pfHltJac)
+  - [x] [Image Segmentation in Digital Image Processing ](https://www.youtube.com/watch?v=UqzGF2OzypI)
+
+## GAN's
+
+ - [x] [125 - What are Generative Adversarial Networks (GAN)?](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD&index=1)
    
 
