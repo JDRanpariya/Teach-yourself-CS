@@ -68,6 +68,7 @@ Learn Data_Science Everyday
 # Notes ( get articles, videos, courses, mindmaps, infographics, books etc. ) 
 ## How to Research
   - for learning new topic
+     - [ ] Questions to ask before starting anything out & assign priority [here](https://wabisabilearning.com/blogs/inquiry/10-self-directed-learning-questions)
      - [ ] use keywords like "how to learn robotics" or "best way to learn robotics" 37pg
      - [ ] find best books related to that domain & go find summary/notes for that book
        -  [ ] you can use keywords like best books to learn robotics or best books to learn robotics reddit / robotics
