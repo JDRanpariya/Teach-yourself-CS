@@ -59,5 +59,10 @@ Learn Data_Science Everyday
 ## GAN's
 
  - [x] [125 - What are Generative Adversarial Networks (GAN)?](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD&index=1)
+
+## Design
+
+ - [x] [Objectified: A documentary for design](http://documentaryheaven.com/objectified/)
+ - [ ] [Startups, This is How Design Works](https://startupsthisishowdesignworks.com/)
    
 
