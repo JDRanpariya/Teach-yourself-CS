@@ -65,6 +65,18 @@ Learn Data_Science Everyday
    - [ ] [2014 NeurIPS paper by Ian Goodfellow](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
    - [ ] [discriminative vs generative classifiers](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
 
+# Notes ( get articles, videos, courses, mindmaps, infographics, books etc. ) 
+## How to Research
+  - for learning new topic
+     - [ ] use keywords like "how to learn robotics" or "best way to learn robotics" 37pg
+     - [ ] find best books related to that domain & go find summary/notes for that book
+       -  [ ] you can use keywords like best books to learn robotics or best books to learn robotics reddit / robotics
+     - [ ] best articles on how to learn robotics | robotics 37pg
+     - [ ] best courses on robotics 37pg
+     - [ ] search youtube on how to learn robotics
+     - [ ] best resources for/on leaning robotics / also search on github
+     - [ ] interact will people and ask their workflows etc.
+     
 
    
 
