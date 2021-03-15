@@ -8,6 +8,21 @@ Learn Data_Science Everyday
  - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
  - [Data science blogs](https://github.com/rushter/data-science-blogs)
 
+## semantic segmentation 
+  - [x] [High Quality Background Removal without green screens | Deep Matting ](https://www.youtube.com/watch?v=rUo0wuVyefU)
+  - [x] [What is semantic and instance segmentation?](https://www.youtube.com/watch?v=VjK3hCnj8xA)
+  - [x] [Instance Segmentation Vs Semantic Segmentation?](https://www.youtube.com/watch?v=ms3pfHltJac)
+  - [x] [Image Segmentation in Digital Image Processing ](https://www.youtube.com/watch?v=UqzGF2OzypI)
+
+## GAN's
+
+ - [x] [125 - What are Generative Adversarial Networks (GAN)?](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD&index=1)
+
+## Design
+
+ - [x] [Objectified: A documentary for design](http://documentaryheaven.com/objectified/)
+ - [ ] [Startups, This is How Design Works](https://startupsthisishowdesignworks.com/)
+
 ## Machine Learning
  - [X]  [Article: ML for newbies](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
  - [ ] [Book: Applied Regression Analysis](https://www.wiley.com/en-us/Applied+Regression+Analysis%2C+3rd+Edition-p-9780471170822)
@@ -50,19 +65,6 @@ Learn Data_Science Everyday
    - [ ] [2014 NeurIPS paper by Ian Goodfellow](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
    - [ ] [discriminative vs generative classifiers](https://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes)
 
-## semantic segmentation 
-  - [x] [High Quality Background Removal without green screens | Deep Matting ](https://www.youtube.com/watch?v=rUo0wuVyefU)
-  - [x] [What is semantic and instance segmentation?](https://www.youtube.com/watch?v=VjK3hCnj8xA)
-  - [x] [Instance Segmentation Vs Semantic Segmentation?](https://www.youtube.com/watch?v=ms3pfHltJac)
-  - [x] [Image Segmentation in Digital Image Processing ](https://www.youtube.com/watch?v=UqzGF2OzypI)
 
-## GAN's
-
- - [x] [125 - What are Generative Adversarial Networks (GAN)?](https://www.youtube.com/watch?v=xBX2VlDgd4I&list=PLZsOBAyNTZwboR4_xj-n3K6XBTweC4YVD&index=1)
-
-## Design
-
- - [x] [Objectified: A documentary for design](http://documentaryheaven.com/objectified/)
- - [ ] [Startups, This is How Design Works](https://startupsthisishowdesignworks.com/)
    
 
