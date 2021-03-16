@@ -76,8 +76,30 @@ Learn Data_Science Everyday
      - [ ] best courses on robotics 37pg
      - [ ] search youtube on how to learn robotics
      - [ ] best resources for/on leaning robotics / also search on github
+     - [ ] best blogs & newsletters to follow on robotics
+     - [ ] best online conf & webinars on robotics
+     - [ ] best wikis on robotics
+     - [ ] best podcasts on robotics
+     - [ ] top robotics communities - join & collobrate
+     - [ ] sites to search robotics keyword on
+       - [ ] [coursera](https://www.coursera.org)
+       - [ ] [Khan Academy](https://www.khanacademy.org/)
+       - [ ] [Open Culture Online Courses](http://www.openculture.com/freeonlinecourses)
+       - [ ] [Udemy](https://www.udemy.com)
+       - [ ] [Skill Share](https://www.skillshare.com/)
+       - [ ] [LinkedIn Learning](https://www.lynda.com)
+       - [ ] [Open Yale Courses](https://oyc.yale.edu/)
+       - [ ] [Academic Earth](http://academicearth.org/)
+       - [ ] [Edx](https://www.edx.org)
+       - [ ] [Alison](https://www.alison.com)
+       - [ ] [University of Oxford podcasts](http://podcasts.ox.ac.uk/series)
+       - [ ] [BBC Podcasts](https://www.bbc.co.uk/podcasts/series/forum)
+       - [ ] [Ted-Ed](https://ed.ted.com/)
+       - [ ] [LessonPaths](http://www.lessonpaths.com/categories/browsePlaylists/academic)
+       - [ ] Resources on reddit [1](https://www.reddit.com/r/reddit.com/comments/cktxy/reddit_lets_compile_a_list_of_the_best_online/)
      - [ ] interact will people and ask their workflows etc.
-     
+     - [ ] [No Excuse List](http://www.noexcuselist.com/)
+     - [ ] Teach Now [20 Resources for educators](https://medium.com/the-faculty/free-online-tools-for-remote-teaching-ba6aa4447c24) [2](https://www.learnupon.com/blog/elearning-resources-guide/)
 
    
 
