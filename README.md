@@ -101,5 +101,153 @@ Learn Data_Science Everyday
      - [ ] [No Excuse List](http://www.noexcuselist.com/)
      - [ ] Teach Now [20 Resources for educators](https://medium.com/the-faculty/free-online-tools-for-remote-teaching-ba6aa4447c24) [2](https://www.learnupon.com/blog/elearning-resources-guide/)
 
+
+GIT Paolo Perrotta – [How Git Works](https://tutflix.org/resources/paolo-perrotta-%E2%80%93-how-git-works.40/)
+
+# UI/UX & design
+- [ ] https://www.awwwards.com/academy/courses/
+- [ ] UX by erik Kennedy
+- [ ] UI by erik Kennedy
+- [ ] Shift Nudge - Interface Design Course
+- [ ] [kreativepro.io] Neftali Loria - KreativePro™ Masterclass
+- [ ] Udacity - UX Designer Nanodegree v1.0.0
+- [ ] DevIQ - The Science of Great UI
+- [ ] DevIQ - Design Like a Pro
+- [ ] [Ebook] Hype4Academy - Frontend Unicorn & Designing User Interfaces
+- [ ] Nguyen Le - Process Masterclass (UX Design)
+- [ ] UI Design for Developers [designcode.io]
+- [ ] Flux Academy - The $10k Website Process
+- [ ] The Branding Masterclass: The Entire Brand Design Process
+- [ ] Bruno Simon - The ultimate Three.js course
+- [ ] Awwwards - Merging WebGL and HTML worlds
+- [ ] Awwwards - Enrich your story with 3D. Creating stunning WebGL experiences
+- [ ] the-complete-freelancing-bundle
+- [ ] [E-Book] Atomic Design
+
+# web dev
+- [ ] Frontend30 - Master 30 Front-end Skills
+- [ ] Chris On Code - Make 20 React Apps Updated
+- [ ] [JustDjango] Advanced Django Roadmap
+- [ ] ReactForDataviz – React For Data Visualization
+- [ ] Kent C. Dodds - Epic React (Epic React Pro)
+- [ ] [developedbyed] The Creative React and Redux Course
+- [ ] [ihatetomatoes] GreenSock - Bella
+- [ ] Newline.co - Fullstack Flask: Build a SaaS Application with Flask
+- [ ] Newline.co - TinyHouse: A Fullstack React Masterclass With TypeScript And GraphQL
+- [ ] Full-stack Deno with GraphQL, NextJS, and PostgreSQL
+- [ ] [Book]Fullstack GraphQL: The Complete Guide to Writing GraphQL Servers
+- [ ] [webdevsimplified.com] Learn CSS Today
+- [ ] ChrisOnCode - Beginner Tailwind
+- [ ] [cssdemystified.com] Kevin Powell - CSS Demystified: Start writing CSS with confidence
+
+# Projects
+- [ ] [GreatCodeClub - Create impressive side-projects](https://tutflix.org/resources/greatcodeclub-create-impressive-side-projects.684/)
+
+# AI
+- [ ] Coding Blocks - Machine Learning Master Course
+- [ ] Manning - Machine Learning for Mere Mortals
+- [ ] Datacamp - Data Engineer with Python [CAREER TRACK]
+- [ ] [Book] Data Science from Scratch: First Principles with Python
+- [ ] Udacity - AI for Healthcare v1.0.0
+- [ ] Udacity - Computer Vision Nanodegree v4.0.0
+- [ ] Udacity - Machine Learning Engineer Nanodegree v4.0.0
+- [ ] Natural Language Processing with Machine Learning in Python
+- [ ] Udacity - Data Streaming Nanodegree
+
+
+# web scraping
+- [ ] Interviewespresso - Web Scrape Anything With JavaScript
+
+# Programming Languages & Frameworks
+## JS & TS
+- [ ] [WebDevSimplified.com] JavaScript Simplified
+- [ ] Build a Chip-8 Emulator in JavaScript that runs on a browser
+- [ ] Newline.co - Fullstack D3 and Data Visualization
+- [ ] CleverProgrammer - Profit with JavaScript
+- [ ] TypeScript Mastery Course
+- [ ] https://tutflix.org/resources/coding-blocks-data-structures-in-real-life-projects.2157/
+- [ ] React and Typescript: Build a Portfolio Project
+- [ ] Adrian Hajdin - Complete Path to JavaScript Mastery
+- [ ] Jab Jab Javascript - Learn Javascript With Tenzin.
+- [ ] Game Development in JS - The Complete Guide (w/ Phaser 3)
+- [ ] 3D Web Game Development with JavaScript and Three.js
+- [ ] [Book] Newline.co - Fullstack React with Typescript
+- [ ] javascript-zero-to-expert-complete-2020-guide-50-projects
+- [ ] NextJS & React - The Complete Guide
+- [ ] Master D3.js | Concepts and 25+ Projects [Released-Feb 2021]
+- [ ] https://tutflix.org/resources/typescript-for-professionals.718/
+
+
+## Python
+- [ ] CleverProgrammer - How to Automate Stuff with Python
+- [ ] GUI Automation using Python | Python Automation
+- [ ] Cryptocurrency Trading Bot with a User Interface in Python
+- [ ] KaEducation.Com – Python & LeetCode_The Ultimate Interview BootCamp
+
+## Dart
+- [ ] The Complete Dart Guide for Beginners and Beyond
+
+## C++
+- [ ] Udacity - Become a C++ Developer V1.0.0
+- [ ] Coding Blocks - C++ Standard Template Library
+
+# Game Dev
+- [ ] [Designcode.io] Unity for Designers
+
+
+## Flutter
+- [ ] Flutter &Dart Building Telegram Bitcoin Price Bot Using Dart
+- [ ] Designcode.io - Flutter for Designers Part 2
+- [ ] Deep Learning Course with Flutter & Python - Build 6 AI Apps
+- [ ] The Complete Flutter UI Masterclass | iOS, Android, & Web
+- [ ] Build Flutter AR & AI Face Filters App like Snapchat Filters
+- [ ] Machine Learning use in Flutter, The Complete Guide
+- [ ] Build a Twitter clone with Flutter and Firestore
+- [ ] Build Flutter Android & iOS Chat Application with Firebase
+
+# Self Improvement
+- [ ] Dan Kennedy - Mind Hijacking
+
+# uncetagarized
+- [ ] Book - Ankit Singla – The Content Rulebook
+- [ ] The New Money Masters - Tony Robbins
+- [ ] Taylor Lane – The No Bullshit Road To Remote Work
+- [ ] [CodeStackr] Become A VS Code SuperHero
+- [ ] Google Chrome Extension Development For Everyone [2020]
+- [ ] Udacity - Agile Software Developer Nanodegree
+- [ ] [BOOK] Dive into Design Patterns - refactoring guru
+- [ ] Foundr - Daniel Dipiazza – Start Your Side Hustle
+- [ ] Simple Programmer Bundle (All Courses)
+- [ ] Educative.io - Number Systems For Computer Scientists
+- [ ] Simpleprogrammer - 10 Steps to Learn Anything Quickly
+- [ ] [Academind] Clean Code
+- [ ] IntelTechniques - Open Source Intelligence OSINT Video Course
+
+# Career Dev
+- [ ] GeeksForGeeks - Interview Preparation [Programming Language - C++]
+- [ ] 500 Most Important Data Science Interview Questions and Answers
+- [ ] Aptitude for Placements 2020 Quantitative Aptitude Tricks
+- [ ] [Randall kanna - The Standout Developer](https://tutflix.org/resources/randall-kanna-the-standout-developer.31/)
+- [ ] [CodewithMosh] The Ultimate Data Structures & Algorithms: Part 1
+- [ ] [CodewithMosh] The Ultimate Data Structures & Algorithms: Part 2
+- [ ] [CodewithMosh] The Ultimate Data Structures & Algorithms: Part 3
+- [ ] [CodewithMosh] The Ultimate Design Patterns : Part 1
+- [ ] Techseries.Dev - Tech Interview Pro
+- [ ] Master the Coding Interview: Big Tech (FAANG) Interviews
+- [ ] [Ebook] The AlgoDaily Book: Core Essentials
+- [ ] Coding Blocks - Master Interview Questions for FAANG & Product Companies
+- [ ] Algo Expert
+- [ ] Coding Blocks - Interview Preparation - C++
+- [ ] [ Geeksforgeeks ] Competitive Programming - Live
+- [ ] [Book] - The Complete Software Developer’s Career Guide
+- [ ] GeeksforGeeks - PLACEMENT 100
+- [ ] CODING NINJAS - Competitive Programming Course
+
+# Finance & startup
+- [ ] Ankur Warikoo - The Complete Guide to Starting Up
+- [ ] Ramit Sethi – Earnable (I Will Teach You To Be Rich)
+
+
+
    
 
