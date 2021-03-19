@@ -30,7 +30,7 @@ Learn Data_Science Everyday
  - [ ] [Machine Learning by Nando de freitas](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
  - Linear Regression
     - [ ] [Article: The Complete Guide to Linear Regression Analysis]( https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2 ) 
-    - [ ] [YouTube Theory: Statistics PL14 - Simple Linear Regression]( https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi )
+    - [ ] [YouTube Theory: Statistics PL14 - Simple Linear Regression]( https://www.youtube.com/playlist?list=PLIeGtxpvyG-LoKUpV0fSY8BGKIMIdmfCi ) 2/14
     - [ ] [Youtube: Regression in python by Sentdex]( https://www.youtube.com/watch?v=JcI5Vnw0b2c&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=3&t=0s )
     - [ ] [Linear Regression project]( https://www.kaggle.com/foxtreme/linear-regression-project )
     - [ ] [9 Interesting Linear Regression Project Ideas & Topics For Beginners]( https://www.upgrad.com/blog/linear-regression-project-ideas-topics-for-beginners/ )
