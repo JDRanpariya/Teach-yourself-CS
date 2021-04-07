@@ -102,7 +102,7 @@ Learn Data_Science Everyday
      - [ ] Teach Now [20 Resources for educators](https://medium.com/the-faculty/free-online-tools-for-remote-teaching-ba6aa4447c24) [2](https://www.learnupon.com/blog/elearning-resources-guide/)
 
 
-GIT Paolo Perrotta – [How Git Works](https://tutflix.org/resources/paolo-perrotta-%E2%80%93-how-git-works.40/)
+- [x] GIT Paolo Perrotta – [How Git Works](https://tutflix.org/resources/paolo-perrotta-%E2%80%93-how-git-works.40/)
 
 # UI/UX & design
 - [ ] https://www.awwwards.com/academy/courses/
@@ -209,6 +209,8 @@ GIT Paolo Perrotta – [How Git Works](https://tutflix.org/resources/paolo-perro
 - [ ] Dan Kennedy - Mind Hijacking
 
 # uncetagarized
+- [ ] Simpleprogrammer - 10 Steps to Learn Anything Quickly
+- [ ] Foundr - Daniel Dipiazza – Start Your Side Hustle
 - [ ] Book - Ankit Singla – The Content Rulebook
 - [ ] The New Money Masters - Tony Robbins
 - [ ] Taylor Lane – The No Bullshit Road To Remote Work
@@ -216,10 +218,8 @@ GIT Paolo Perrotta – [How Git Works](https://tutflix.org/resources/paolo-perro
 - [ ] Google Chrome Extension Development For Everyone [2020]
 - [ ] Udacity - Agile Software Developer Nanodegree
 - [ ] [BOOK] Dive into Design Patterns - refactoring guru
-- [ ] Foundr - Daniel Dipiazza – Start Your Side Hustle
 - [ ] Simple Programmer Bundle (All Courses)
 - [ ] Educative.io - Number Systems For Computer Scientists
-- [ ] Simpleprogrammer - 10 Steps to Learn Anything Quickly
 - [ ] [Academind] Clean Code
 - [ ] IntelTechniques - Open Source Intelligence OSINT Video Course
 
