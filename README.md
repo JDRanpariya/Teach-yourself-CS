@@ -209,19 +209,16 @@ Learn Data_Science Everyday
 - [ ] Dan Kennedy - Mind Hijacking
 
 # uncetagarized
-- [ ] Simpleprogrammer - 10 Steps to Learn Anything Quickly
-- [ ] Foundr - Daniel Dipiazza – Start Your Side Hustle
-- [ ] Book - Ankit Singla – The Content Rulebook
-- [ ] The New Money Masters - Tony Robbins
 - [ ] Taylor Lane – The No Bullshit Road To Remote Work
 - [ ] [CodeStackr] Become A VS Code SuperHero
 - [ ] Google Chrome Extension Development For Everyone [2020]
 - [ ] Udacity - Agile Software Developer Nanodegree
 - [ ] [BOOK] Dive into Design Patterns - refactoring guru
-- [ ] Simple Programmer Bundle (All Courses)
 - [ ] Educative.io - Number Systems For Computer Scientists
 - [ ] [Academind] Clean Code
-- [ ] IntelTechniques - Open Source Intelligence OSINT Video Course
+- [ ] Foundr - Daniel Dipiazza – Start Your Side Hustle
+- [ ] Book - Ankit Singla – The Content Rulebook
+- [ ] The New Money Masters - Tony Robbins
 
 # Career Dev
 - [ ] GeeksForGeeks - Interview Preparation [Programming Language - C++]
