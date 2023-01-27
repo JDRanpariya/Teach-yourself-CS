@@ -56,6 +56,7 @@ Learn Data_Science Everyday
        -  [ ] you can use keywords like best books to learn robotics or best books to learn robotics reddit / robotics
      - [ ] best articles on how to learn robotics | robotics 37pg
      - [ ] best courses on robotics 37pg
+     - [ ] best/good robotics blogs and websites
      - [ ] search youtube on how to learn robotics
      - [ ] best resources for/on leaning robotics / also search on github
      - [ ] best blogs & newsletters to follow on robotics
