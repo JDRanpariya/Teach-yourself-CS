@@ -7,6 +7,7 @@
 - [ ] From Nand to Tetris [🔗](https://www.nand2tetris.org/)
 - [ ] Introduction to Computer Systems [CMU 15-213 🔗](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50)
 - [ ] Programming Languages [CS 242 🔗](https://web.stanford.edu/class/cs242/materials.html)
+- [ ] Computation Structures [MIT 6.004 🔗](https://web.archive.org/web/20191227205825/https://6004.mit.edu/web/fall19/resources/lectures)
 - [ ] Introduction to Theoretical CS [🔗](https://introtcs.org/public/)
 - [ ] Missing Semester of Your CS [🔗](https://missing.csail.mit.edu/)
 - [ ] 8-Bit Computer [🔗](https://eater.net/8bit)
