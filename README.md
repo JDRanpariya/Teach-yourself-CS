@@ -20,6 +20,7 @@
 
 
 #### Annexes
+- [College Compedium]https://collegecompendium.org/)
 - [Functional CS](https://functionalcs.github.io/curriculum/)
 - [Learn AI from Scratch](https://learnaifromscratch.github.io/)
 - [Bottom Up CS](https://www.bottomupcs.com/)
