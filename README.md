@@ -17,7 +17,7 @@
 ### Fundamentals
 - Track 0
   - [ ] [Bottom Up CS](https://www.bottomupcs.com/)
-    > Progress 0/9 Chapters
+    > Progress 1/5 Placements & 0/9 Chapters
 - Track 1
   - [ ] Accelerated Intro to CS [Brown cs019](https://cs.brown.edu/courses/cs019/2022/) [Referance](https://learnaifromscratch.github.io/software.html) | [YT](https://www.youtube.com/playlist?list=PLl0tHXI7SBjncgRrhL4DPEwDgUjUtk2_C)
     > Progress 0/10 Weeks
