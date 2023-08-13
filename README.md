@@ -10,6 +10,9 @@
 
 > Just come here every day and do something that piques your interest. I'd like you to please practice more than what you have learned.
 
+## Some Gold Nuggets
+- [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6)
+  > 0/32 Lectures
 
 🚧 Work in Progress
 > Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications
