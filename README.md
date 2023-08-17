@@ -64,4 +64,4 @@
 - [What CS Major Should Know?](https://matt.might.net/articles/what-cs-majors-should-know/)
 - [OSSU](https://github.com/ossu/computer-science)
 - [P1xt Guides](https://github.com/P1xt/p1xt-guides)
-- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
