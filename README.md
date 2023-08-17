@@ -13,6 +13,7 @@
 ## Some Gold Nuggets
 - [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PLUeG2W-NLloyr1H2J1wO4MKnvz__B4-u6)
   > 1/32 Lectures
+- [Great Talks Collection by James Clear](https://jamesclear.com/great-speeches)
 
 🚧 Work in Progress
 > Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications
