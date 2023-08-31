@@ -4,7 +4,7 @@
 ### Learning Strategies
 > On Isaac Newton's iteration method to self-learn geometry:
 >
->  "He bought Descartes' Geometry and read it by himself .. when he was got over 2 or 3 pages he could understand no farther than he began again and got 3 or 4    pages father till he came to another difficult place than he began again and advanced farther and continued so doing till he made himself master of the whole      without having the least light or instruction from anybody" (King's Cam., Keynes MS 130.10,fol. 2/v/)
+>  "He bought Descartes' Geometry and read it by himself .. when he was got over 2 or 3 pages he could understand no farther than he began again and got 3 or 4 pages further till he came to another difficult place than he began again and advanced farther and continued so doing till he made himself master of the whole      without having the least light or instruction from anybody" (King's Cam., Keynes MS 130.10,fol. 2/v/)
 
 > Numerous anecdotes exist on studying strategies like the Feynman method explained here "If you can’t, out loud or on paper, explain the idea without confusion or contradiction, stop and figure it out right there". Some books model that method, like Gilbert Strang's Calculus, have you reciting back the entire chapter you just read.
 
@@ -12,7 +12,7 @@
 
 ## Some Gold Nuggets
 - [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
-  > 27/32 Lectures, Takeaways [🔗](https://github.com/JDRanpariya/Knowledge-Base/blob/master/Courses/The%20Art%20of%20Science%20and%20Engineering.md)
+  > 28/32 Lectures, Takeaways [🔗](https://github.com/JDRanpariya/Knowledge-Base/blob/master/Courses/The%20Art%20of%20Science%20and%20Engineering.md)
 - [Great Talks Collection by James Clear](https://jamesclear.com/great-speeches)
 
 🚧 Work in Progress
