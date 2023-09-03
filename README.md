@@ -11,8 +11,8 @@
 > Just come here every day and do something that piques your interest. I'd like you to please practice more than what you have learned.
 
 ## Some Gold Nuggets
-- [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
-  > 30/32 Lectures, Takeaways [🔗](https://github.com/JDRanpariya/Knowledge-Base/blob/master/Courses/The%20Art%20of%20Science%20and%20Engineering.md)
+- [X] [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
+  > 32/32 Lectures, Takeaways [🔗](https://github.com/JDRanpariya/Knowledge-Base/blob/master/Courses/The%20Art%20of%20Science%20and%20Engineering.md)
 - [Great Talks Collection by James Clear](https://jamesclear.com/great-speeches)
 
 🚧 Work in Progress
