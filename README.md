@@ -28,8 +28,8 @@
 - Track 1
   - [ ] Accelerated Intro to CS [Brown cs019](https://cs.brown.edu/courses/cs019/2022/) [Referance](https://learnaifromscratch.github.io/software.html) | [YT](https://www.youtube.com/playlist?list=PLl0tHXI7SBjncgRrhL4DPEwDgUjUtk2_C)
     > Progress 1/5 Placements & 0/10 Weeks
-  - [ ] Programming Languages [CS 242 🔗](https://web.stanford.edu/class/cs242/materials.html) [Brown CICS 1730 🔗](https://cs.brown.edu/courses/csci1730/2022/index.html)
-  - [ ] SICP with Berkeley [CS 61A 🔗](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
+  - [ ] Programming Languages [CS 242 🔗](https://web.stanford.edu/class/cs242/materials.html) [Brown CICS 1730 🔗](https://cs.brown.edu/courses/csci1730/2022/index.html) 
+  - [ ] SICP with Berkeley [CS 61A 🔗](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection) [MIT 2005](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/resources/1a-overview-and-introduction-to-lisp/)
   - [ ] Introduction to Computer Systems [CMU 15-213 🔗](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50)
   - [ ] Computation Structures [MIT 6.004 🔗](https://web.archive.org/web/20191227205825/https://6004.mit.edu/web/fall19/resources/lectures)
   - [ ] Introduction to Theoretical CS [🔗](https://introtcs.org/public/)
