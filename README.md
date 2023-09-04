@@ -18,6 +18,9 @@
 🚧 Work in Progress
 > Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications
 
+## CS lookups
+- https://www.youtube.com/@CyrillStachniss/playlists
+
 ### Fundamentals
 - Track 0
   - [ ] [Bottom Up CS](https://www.bottomupcs.com/)
