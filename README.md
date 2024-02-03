@@ -51,7 +51,7 @@
 ### Misc
 - [Architecture of Open source applications](https://aosabook.org/en/index.html)
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
-- [Web Browser Engineering](https://browser.engineering/)
+- [Web Browser Engineering](https://browser.engineering/) [Chrome University](https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
 
 ### Recommended reading
 - Learn LaTeX
