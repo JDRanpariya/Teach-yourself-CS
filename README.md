@@ -48,10 +48,22 @@
   - 8-Bit Computer [🔗](https://eater.net/8bit)
   - The Art of Computer Programming, 
 
+#### Browser
+- [ ] [How Browsers Work?](https://web.dev/articles/howbrowserswork)
+- [ ] [What is a Browser Engine?](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
+- [ ] [Inside look at modern Web Browser](https://developer.chrome.com/blog/inside-browser-part1)
+- [ ] [Browser from scratch](https://viethung.space/blog/2020/05/29/Browser-from-Scratch-Introduction/)
+- [ ] [Building a Rust Browser](https://joshondesign.com/2020/03/10/rust_minibrowser)
+- [ ] [Web Browser Engineering](https://browser.engineering/)
+- [ ] [Chrome University](https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
+- [ ] [High Performance Browser Networking](https://hpbn.co/)
+
 ### Misc
 - [Architecture of Open source applications](https://aosabook.org/en/index.html)
 - [Security Study Plan](https://github.com/jassics/security-study-plan)
-- [Web Browser Engineering](https://browser.engineering/) [Chrome University](https://www.youtube.com/playlist?list=PLNYkxOF6rcICgS7eFJrGDhMBwWtdTgzpx)
+- [Front-end Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/)
+
+
 
 ### Recommended reading
 - Learn LaTeX
