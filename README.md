@@ -18,35 +18,35 @@
 🚧 Work in Progress
 > Computer Systems: A Programmer's Perspective and Designing Data-Intensive Applications
 
-## CS lookups
-- https://www.youtube.com/@CyrillStachniss/playlists
-
 ### Fundamentals
-- Track 0
+
+- Track: Theoretical Computer Science
+  - [ ] [Intro to CS](https://introtcs.org/public/) 
+  - [ ] [Great Ideas in Theoretical Computer Science | CMU](https://www.cs251.com/)
+  - [ ] [Theory of Computation | MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+  - [ ] [Undergrad Complexity | CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
+  - [ ] [CS Theory Toolkit at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) 
+
+- Track: Computer Systems
   - [ ] [Bottom Up CS](https://www.bottomupcs.com/)
-    > Progress 0/9 Chapters
-- Track 1
-  - [ ] Accelerated Intro to CS [Brown cs019](https://cs.brown.edu/courses/cs019/2022/) [Referance](https://learnaifromscratch.github.io/software.html) | [YT](https://www.youtube.com/playlist?list=PLl0tHXI7SBjncgRrhL4DPEwDgUjUtk2_C)
-    > Progress 1/5 Placements & 0/10 Weeks
-  - [ ] Programming Languages [CS 242 🔗](https://web.stanford.edu/class/cs242/materials.html) [Brown CICS 1730 🔗](https://cs.brown.edu/courses/csci1730/2022/index.html) 
-  - [ ] SICP with Berkeley [CS 61A 🔗](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection) [MIT 2005](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/resources/1a-overview-and-introduction-to-lisp/)
+  - [ ] From Nand to Tetris [🔗](https://www.nand2tetris.org/)
   - [ ] Introduction to Computer Systems [CMU 15-213 🔗](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=50)
   - [ ] Computation Structures [MIT 6.004 🔗](https://web.archive.org/web/20191227205825/https://6004.mit.edu/web/fall19/resources/lectures)
-  - [ ] Introduction to Theoretical CS [🔗](https://introtcs.org/public/)
-- Track 2
-  - [ ] How to [code Simple](https://www.edx.org/course/how-to-code-simple-data) and [Complex data](https://www.edx.org/course/how-to-code-complex-data)
-  - [ ] [Math](https://learnaifromscratch.github.io/math.html)
-  - [ ] Missing Semester of Your CS [🔗](https://missing.csail.mit.edu/)
-  - [ ] From Nand to Tetris [🔗](https://www.nand2tetris.org/)
+  - [ ] SICP with Berkeley [CS 61A 🔗](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
+  
+- Track: Programming Languages
+  - [ ] [CSCI 1730 Programming Languages | Brown](https://www.bilibili.com/video/BV1ip411f7fe/?spm_id_from=333.788.recommend_more_video.2) [PLAI Book](https://www.plai.org/3/2/PLAI%20Version%203.2.2%20printing.pdf)
+  - [ ] [CS 242 Programming Languages| Stanford](https://web.stanford.edu/class/cs242/materials.html) 
+  - [ ] [Programming with Categories](https://www.youtube.com/watch?v=Y5YCE_mVjvg&list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS&index=1)
+  
+- Track: Databases
+  - [ ] CMU Database Group
  
-- Track Practice
+- Track: ...
   - [ ] How to think like Computer Scientist [Exercises 🔗](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf)
-  - [ ] [MIT 6.0001 Intro to CS & Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/assignments/)
-    > Progress 0/6 Assignments
-
-- Track Afterlife
+  - [ ] Missing Semester of Your CS [🔗](https://missing.csail.mit.edu/)
   - 8-Bit Computer [🔗](https://eater.net/8bit)
-  - The Art of Computer Programming, 
+  - The Art of Computer Programming
 
 #### Browser
 - [ ] [How Browsers Work?](https://web.dev/articles/howbrowserswork)
