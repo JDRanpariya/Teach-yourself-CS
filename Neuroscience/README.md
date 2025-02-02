@@ -104,8 +104,3 @@ This document covers an **exhaustive list of books, courses, and research papers
 
 ---
 
-## 🚀 Next Steps?  
-- **Need a free alternative** to any book? I can find open-access materials.  
-- **Want hands-on projects**? Let me know, and I’ll suggest coding exercises.  
-- **Want a personalized learning roadmap**? Tell me your focus area!  
-
