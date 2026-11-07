@@ -13,7 +13,7 @@
 ## Some Gold Nuggets
 - [X] [Learning to Learn: The Art of Doing Science & Engineering ](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
   > 32/32 Lectures, [Takeaways](https://jdranpariya.com/library/lectures/the-art-of-doing-science-and-engineering/)
-- [ ] [Allen Newell : Desires and Diversions](https://www.youtube.com/watch?v=_sD42h9d1pk)
+- [X] [Allen Newell : Desires and Diversions](https://www.youtube.com/watch?v=_sD42h9d1pk)
 - [ ] [Great Talks Collection by James Clear](https://jamesclear.com/great-speeches)
 
 🚧 Work in Progress
